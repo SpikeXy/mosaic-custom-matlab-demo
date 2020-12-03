@@ -1,0 +1,4 @@
+MATLAB实现的图片马赛克算法源代码Create color photomosaics from your image database.
+2008年05月31日
+Matlab R13,image processing toolbox
+本文算法MOSAIC，从你收集的图片中创建一个马赛克图片。首先，你选择一个基准图片，然后，设定使用的马赛克图片数量，然后生成一个大图。
